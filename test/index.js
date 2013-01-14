@@ -1,5 +1,5 @@
 
-var Validator = require('../../node-document-validator');
+var Validator = require('node-document-validator');
 
 module.exports = Validator.Spec('Schema', {
   module: require('..'),
