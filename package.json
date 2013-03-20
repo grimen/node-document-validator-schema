@@ -41,7 +41,7 @@
   "dependencies": {
     "funargs": "latest",
     "sugar": "latest",
-    "node-document-validator": "0.1.0-pre2",
+    "node-document-validator": "latest",
     "schema": "latest"
   },
   "devDependencies": {
